@@ -14,3 +14,4 @@ The player needs to hold out as long as possible and collect as many objects as 
 
 The control is implemented using the shooter keys.
 ![snake](https://github.com/Vlaunest777/Vlaunest777-Snake-by-Vlaunest/assets/143882217/8a19a429-4258-4084-a182-2bf2790b363f)
+![fwfwf](https://github.com/Vlaunest777/Vlaunest777-Snake-by-Vlaunest/assets/143882217/320d86da-5998-437d-a558-3945d48f1a3c)
