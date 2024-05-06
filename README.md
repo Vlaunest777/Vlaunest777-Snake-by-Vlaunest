@@ -1,1 +1,16 @@
-# Vlaunest777-Snake-by-Vlaunest
+The rules of the game:
+
+The player controls a snake that collects objects on the field;
+
+snake turns are possible by 90 degrees;
+
+at each launch, the snake appears in a random place on the playing field;
+
+each collected object increases the length of the snake by one block;
+
+a snake's collision with its body or the boundary of the playing field leads to a loss;
+
+The player needs to hold out as long as possible and collect as many objects as possible.
+
+The control is implemented using the shooter keys.
+![alt text](snake.jpg)
