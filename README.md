@@ -14,7 +14,7 @@ each collected object increases the length of the snake by one block;
 a snake's collision with its body or the boundary of the playing field leads to a loss;
 
 The player needs to hold out as long as possible and collect as many objects as possible.
-Direct download link - [https://676.su/P3LS](https://github.com/Vlaunest777/Vlaunest777-Snake-by-Vlaunest/releases/tag/%23snakevlaunest)
+Direct download link - https://github.com/Vlaunest777/Vlaunest777-Snake-by-Vlaunest/releases/tag/%23snakevlaunest
 
 The control is implemented using the shooter keys.
 
